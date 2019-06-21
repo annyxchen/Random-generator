@@ -1,0 +1,57 @@
+body{
+  margin:10px;
+  background-color:grey;
+  text-shadow:
+  c
+}
+h1{
+  font-family:Roboto Mono;
+  
+}
+p{
+font-family:Merriweather 27px;
+
+}
+button {
+  background: grey;
+  border: 3px ridge blue;
+  margin-bottom:20px;
+  font-size: 25px;
+  cursor: pointer;
+  margin-left: 10px;
+  margin-right: 10px;
+  justify-content: space-around;
+
+}
+.mobama{
+width:250px;
+height:250px;
+
+}
+.tswift{
+  width:250px;
+  height:250px;
+}
+.kkloss{
+  width:250px;
+  height:250px;
+
+}
+.taylor{
+position:relative;
+right:60px;
+}
+.michelle{
+position:relative;
+right:0px;
+}
+.karlie{
+  position:relative;
+  left:60px;
+}
+@media screen and (max-width: 700px)
+ {
+   body{
+     background-color:peach;
+   }
+ }
